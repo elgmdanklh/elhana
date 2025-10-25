@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="160"
+  height="160"
+  viewBox="0 0 160 160"
+>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c99a2f" />
+      <stop offset="100%" stop-color="#897021" />
+    </linearGradient>
+  </defs>
+  <rect
+    x="12"
+    y="12"
+    width="136"
+    height="136"
+    rx="28"
+    fill="url(#gradient)"
+  />
+  <rect
+    x="52"
+    y="36"
+    width="56"
+    height="96"
+    rx="10"
+    fill="#ffffff"
+    opacity="0.92"
+  />
+  <circle cx="96" cy="84" r="6" fill="#c99a2f" />
+  <path
+    d="M52 56h56v-6c0-5.5-4.5-10-10-10H62c-5.5 0-10 4.5-10 10v6z"
+    fill="#ffffff"
+    opacity="0.72"
+  />
+  <text
+    x="50%"
+    y="142"
+    text-anchor="middle"
+    font-family="Segoe UI, Cairo, sans-serif"
+    font-size="18"
+    fill="#ffffff"
+  >
+    LOGO
+  </text>
+</svg>
+
+
+
+
+
